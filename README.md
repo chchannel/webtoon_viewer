@@ -66,4 +66,4 @@ dist/WebtoonViewer.exe
 
 ## ライセンス
 このソフトウェアは Non-Commercial License（MITベース） で公開されています。
-詳細は LICENSE ファイルを参照してください。
+詳細は [LICENSE](https://github.com/chchannel/webtoon_viewer/blob/main/LICENSE) ファイルを参照してください。
