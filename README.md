@@ -1,6 +1,5 @@
-﻿![WebtoonViewer](top.jpg)
-
 # WebtoonViewer
+ ![WebtoonViewer](top.jpg)
 
 ## アプリ概要
 Webtoon形式（縦スクロール漫画）の画像フォルダを
@@ -29,11 +28,9 @@ pip install -r requirements.txt
 python main.py
 
 ### EXE版
-dist フォルダ内の
+[release](https://github.com/chchannel/webtoon_viewer/releases)から最新版のWebtoonViewer.exeをダウンロード。
 
-WebtoonViewer.exe
-
-をダブルクリックして起動。
+ダブルクリックして起動。
 
 初回起動時に以下の設定ファイルが
 exe と同じフォルダに自動生成されます。
@@ -66,3 +63,6 @@ python -m PyInstaller --onefile --noconsole --icon=wtv.ico --name WebtoonViewer 
 生成ファイル
 
 dist/WebtoonViewer.exe
+
+## ライセンス
+非商用利用に限り、自由にご利用・再配布いただけます。
