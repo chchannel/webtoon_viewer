@@ -65,4 +65,5 @@ python -m PyInstaller --onefile --noconsole --icon=wtv.ico --name WebtoonViewer 
 dist/WebtoonViewer.exe
 
 ## ライセンス
-非商用利用に限り、自由にご利用・再配布いただけます。
+このソフトウェアは Non-Commercial License（MITベース） で公開されています。
+詳細は LICENSE ファイルを参照してください。
